@@ -127,7 +127,7 @@ npm run db:reset
 
 ## 보고서·검증 증거
 - 보고서: [docs/report.pdf](docs/report.pdf)
-- 검증 캡처는 캡처 파일에 존재
+- 검증 캡처는 보고서 PDF에 포함
 
 ## AI 사용 요약
 - 도구: Claude Code (Claude Opus 5.5)
